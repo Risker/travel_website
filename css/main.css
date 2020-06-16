@@ -1,0 +1,16 @@
+.section-search input{
+    padding: 5px !important;
+    font-size: 15px !important;
+    width: 75% !important;
+    border: rgb(61, 35, 177) 3px solid !important;
+}
+
+
+.section-follow .fa-4x{
+    margin: 5px 10px;
+}
+
+.backy {
+    background: rgba(0,0,0,0.7);
+    border-radius: 15px;
+}
